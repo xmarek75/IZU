@@ -1,1 +1,2 @@
 # IZU
+Základy umělé inteligence
